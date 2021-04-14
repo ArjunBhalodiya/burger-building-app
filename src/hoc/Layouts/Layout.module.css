@@ -1,0 +1,57 @@
+.BodyContainer {
+  margin: 15px !important;
+}
+
+.NavBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #daad86;
+  height: 60px;
+  box-shadow: 0 2px 5px #adabab;
+}
+
+.NavBarLogo {
+  height: 60px;
+  justify-content: flex-start;
+  margin-left: 15px;
+}
+
+.NavMenu {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  list-style: none;
+  margin: 0px 15px;
+  height: inherit;
+}
+
+.NavItem {
+  display: inline-flex;
+  width: 120px;
+  margin: 0 0px;
+  color: #ffffff;
+  height: inherit;
+}
+
+.NavLink {
+  display: inline-flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: inherit;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.NavLink:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.NavItemActive {
+  background-color: #c8854b;
+  cursor: context-menu;
+}

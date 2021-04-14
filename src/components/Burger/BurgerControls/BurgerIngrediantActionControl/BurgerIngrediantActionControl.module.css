@@ -1,0 +1,7 @@
+.BtnBurgerIngrediants,
+.BtnBurgerIngrediants:active,
+.BtnBurgerIngrediants:hover,
+.BtnBurgerIngrediants:checked {
+  background-color: #c8854b !important;
+  border-color: #c8854b !important;
+}

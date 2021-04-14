@@ -1,0 +1,21 @@
+.Ingredient {
+  margin: 15px 0 15px 0;
+}
+
+.BtnAddIngredient {
+  color: #ffffff;
+  background-color: #daad86;
+  border-color: #daad86;
+  border-radius: 100%;
+  box-shadow: 0 2px 5px #adabab;
+  margin-right: 5px;
+}
+
+.BtnRemoveIngredient {
+  color: #ffffff;
+  background-color: #c1421d;
+  border-color: #c1421d;
+  border-radius: 100%;
+  box-shadow: 0 2px 5px #adabab;
+  margin-left: 5px;
+}

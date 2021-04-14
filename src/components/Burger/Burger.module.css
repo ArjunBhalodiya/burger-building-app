@@ -1,0 +1,23 @@
+.Burger {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.Ingredients {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.NoIngrediantsMessage {
+  font-size: 20px;
+  text-align: center;
+  margin: 25px 0px 25px 0px;
+}
+
+.IngrediantsActionButton {
+  width: 400px;
+  margin: 0 auto;
+}

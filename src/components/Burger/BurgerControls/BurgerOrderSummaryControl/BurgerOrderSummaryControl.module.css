@@ -1,0 +1,20 @@
+.IngrediantSummaryModal {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 10px 10px 10px #00000038;
+  border-radius: 3px;
+}
+
+.Ingredient {
+  margin: 15px 0 15px 0;
+}
+
+.BtnBurgerIngrediants,
+.BtnBurgerIngrediants:active,
+.BtnBurgerIngrediants:hover,
+.BtnBurgerIngrediants:checked {
+  background-color: #c8854b !important;
+  border-color: #c8854b !important;
+}
